@@ -176,4 +176,3 @@ class ProgresoLeccion(models.Model):
 
 
 
-

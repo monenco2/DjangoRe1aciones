@@ -34,3 +34,6 @@ class MatriculaAdmin(admin.ModelAdmin):
     list_filter = ['completado']
     search_fields = ['estudiante__nombre', 'curso__titulo']
 
+
+
+
